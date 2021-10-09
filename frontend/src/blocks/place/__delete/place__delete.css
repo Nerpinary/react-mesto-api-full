@@ -1,0 +1,6 @@
+.place__delete {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: none;
+}

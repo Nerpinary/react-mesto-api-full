@@ -1,0 +1,9 @@
+.popup__infotooltip{
+    min-height: 308px;
+    max-width: 430px;
+    max-height: 330px;
+    display: flex;
+    background-color: #fff;
+    margin: auto 20px;
+    border-radius: 10px;
+}

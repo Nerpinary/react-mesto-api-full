@@ -1,0 +1,5 @@
+.place__image {
+    width: 100%;
+    height: calc(100% - 70px);
+    cursor: pointer;
+}
